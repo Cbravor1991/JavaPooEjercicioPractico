@@ -1,6 +1,6 @@
 ## JAVA PROGRAMACIÓN ORIENTADA A OBJETOS
 Se realiza una prueba técnica para un puesto trainee/junior en la cual se debe utilizar programación
-orientada a objetos para modelar un problema relacinado con una empresa de turismo.
+orientada a objetos para modelar un problema relacionado con una empresa de turismo.
 
 
 ## Consigna
