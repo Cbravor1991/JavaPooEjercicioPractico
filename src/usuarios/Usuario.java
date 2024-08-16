@@ -12,7 +12,7 @@ public class Usuario {
     public Usuario(String nombre, double presupuesto, List<Producto> productos) {
         this.nombre = nombre;
         this.presupuesto = presupuesto;
-        this.productos = productos;
+        this.productos = productos != null ? productos : new ArrayList<>();
     }
 
     public void contratarProducto(Producto producto) {
